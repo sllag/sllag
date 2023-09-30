@@ -35,5 +35,3 @@ Hello! My name is sllag, a person passionate about creating impactful visual exp
 
 
 [youtube]: https://www.youtube.com/@sllag/videos
-
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
